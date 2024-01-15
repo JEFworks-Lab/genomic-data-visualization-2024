@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<section id="profile">
+    <div class="row">
+	<div class="col-sm-6 col-md-4" align="center">
+            <img src="{{site.baseurl}}{{ page.avatar }}" alt="{{ page.name }}">
+	</div>
+	<div class="col-sm-6 col-md-8">
+            <h2 class="header-light regular-pad"> {{ page.name }}</h2>
+            {{ page.description }}
+            <br><br>
+
+            {% if page.web != null %}
+            <a href=" {{ page.web }} " target="_blank"><li class="fa fa-fw fa-2x fa-home"></li></a>
+            {% endif %}
+            {% if page.twitter != null %}
+            <a href=" {{ page.twitter }} " target="_blank"><li class="fab fa-fw fa-2x fa-twitter"></li></a>
+            {% endif %}
+            {% if page.github != null %}
+            <a href=" {{ page.github }} " target="_blank"><li class="fab fa-fw fa-2x fa-github"></li></a>
+            {% endif %}
+            {% if page.linkedin != null %}
+            <a href=" {{ page.linkedin }} " target="_blank"><li class="fab fa-fw fa-2x fa-linkedin"></li></a>
+            {% endif %}
+            {% if page.instagram != null %}
+            <a href=" {{ page.instagram }} " target="_blank"><li class="fab fa-fw fa-2x fa-instagram"></li></a>
+            {% endif %}
+            {% if page.email != null %}
+            <a href="mailto:{{ page.email }}"><li class="fa fa-fw fa-2x fa-envelope"></li></a>
+            {% endif %}
+	</div>	
+    </div>
+    <div class="bottompagination">
+	<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+	<span class="navigation" role="navigation">
+	    <a href="{{ site.baseurl }}/about">Meet more class members</a>
+	</span>
+    </div>
+	 
+</section>
+

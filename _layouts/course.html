@@ -1,0 +1,21 @@
+---
+title: "Course Content"
+layout: default
+permalink: "/course.html"
+---
+
+<section class="course">
+    <div class="section-title">
+        <h2><span>Course Content</span></h2>
+    </div>
+
+    <div class="row"><div class="col-md-12">
+	<ul class="post-list-container">
+            {% assign items = site.course | sort: 'order' %}
+            {% for post in items %}
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+	</ul>
+    </div></div>
+    
+</section>

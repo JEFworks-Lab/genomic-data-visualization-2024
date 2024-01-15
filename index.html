@@ -1,0 +1,80 @@
+---
+layout: default
+title: Home
+---
+
+<div class="section-title">
+    <h2><span>Welcome</span></h2>
+</div>
+<div class="row">
+    <div class="col-md-12">
+	<p class="lead">
+	    {{ site.description }}
+	</p>
+	
+	<h5>Course Information</h5>
+	<p>
+	    Course Staff: Prof. Jean Fan and Kalen Clifton<br>
+	    Office Hours: 10:00am-10:50am Monday, Wednesday, and Friday. See Slack for location details.<br>
+	    Lectures: 8:00am-9:50am Monday, Wednesday, and Friday. See Slack for location details. 
+	</p>
+
+	<h5>Course Details</h5>
+	<a href="course">☞ see Course tab</a>
+	
+    </div>
+</div>
+<br><br>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured Visualizations</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Visualizations</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

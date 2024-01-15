@@ -1,0 +1,33 @@
+---
+title: "About"
+layout: default
+permalink: "/about.html"
+---
+
+<section class="about">
+    <div class="section-title">
+        <h2><span>About</span></h2>
+    </div>
+    <div class="row">
+    <div class="col-md-12">
+	<p class="lead">
+	    {{ site.description }}
+	</p>
+    </div>
+    </div>
+</section>
+
+<section class="class">
+    <div class="section-title">
+        <h2><span>Meet the Class</span></h2>
+    </div>
+    <div class="row">
+
+    {% for author in site.authors %}
+
+        {% include authorbox.html %}
+
+    {% endfor %}
+
+    </div>
+</section>

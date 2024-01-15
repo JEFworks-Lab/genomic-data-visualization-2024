@@ -1,0 +1,7 @@
+*~*
+.DS_Store
+_site/*
+site/
+.sass-cache/
+.Rproj.user
+Gemfile.lock

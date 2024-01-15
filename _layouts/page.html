@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+        <b>Table of Contents</b>
+	{% include toc.html html=content %}
+	<hr>
+    </div>
+
+    <div class="article-post">
+    {{content}}
+    </div>
+
+</section>

@@ -1,0 +1,49 @@
+# Site
+name: "Genomic Data Visualization"
+title: "Genomic Data Visualization"
+description: "Welcome to the Course Website for EN.580.428 Genomic Data Visualization!
+<p>
+As the primary mode through which analysts and audience members alike consume data, data visualization remains an important hypothesis generating and analytical technique in data-driven research to facilitate new discoveries. However, if done poorly, data visualization can also mislead, bias, and slow down progress. This hands-on course will cover the principles of perception and cognition relevant for data visualization and apply these principles to genomic data, including large-scale single-cell and spatially-resolved omics datasets, using the R statistical programming language. Students will be expected to complete class readings, create weekly data visualizations as homework assignments, and make a major class presentation.
+</p>"
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
+baseurl: '/genomic-data-visualization-2023'
+google_analytics: ''
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+    
+# Pagination 
+paginate: 12
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+collections:
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
+  authors:
+    permalink: /authors/:title/
+    output: true
+  course:
+    permalink: /course/:title/
+    output: true
