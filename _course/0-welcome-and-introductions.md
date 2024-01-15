@@ -14,8 +14,6 @@ By the end of this lesson, you should understand what to expect from the course 
 
 ## 0.1.0 Course descriptions
 
-Spring 2022, 1st half Semester: 01-23-2023 to 03-17-2023 | MWF 08:00 AM - 09:50 AM | Homewood Campus, Hodson 313 | Lecture
-
 As the primary mode through which analysts and audience members alike consume data, data visualization remains an important hypothesis generating and analytical technique in data-driven research to facilitate new discoveries. However, if done poorly, data visualization can also mislead, bias, and slow down progress. This hands-on course will cover the principles of perception and cognition relevant for data visualization and apply these principles to genomic data, including large-scale single-cell and spatially-resolved omics datasets, using the R statistical programming language. Students will be expected to complete class readings, create weekly data visualizations as homework assignments, and make a major class presentation.
 
 ## 0.1.1 Course learning objectives
@@ -38,11 +36,7 @@ By the end of this course, you will be able to:
 ## 0.2 Course staff
 
 Prof. Jean Fan  
-In-person Office Hours: Mondays after class. Location: Wyman Park S253.  
-
-TA: Kalen Clifton  
-In-person Office Hours: Wednesdays after class. Location: Wyman Park common area.  
-Virtual Office Hours: By appointment. Location: Zoom.  
+TA: Rafael dos Santos Peixoto
 
 ![EN.580.428 Genomic Data Visualization course staff photo]({{ site.baseurl }}/assets/images/lesson-0-course-staff-photo.png)
 
@@ -84,12 +78,6 @@ A part of this course will involve creating and describing data visualizations. 
 - Did you use appropriate visualization techniques? (30%)
 - Was your description clear and precise? (30%)
 - Was your code reproducible? (10%)
-
-#### 0.3.1.1 Written Review Homework Assignments
-
-A part of this course will involve reviewing public data visualizations as well as each others' data visualizations both in written and oral form. For such written review homework assignments, grades will be broken down according to the following characterization of your review:
-- Was your review clear and precise? (50%)
-- Was your review polite and constructive? (50%)
 
 ### 0.3.2 Quizzes
 
@@ -169,6 +157,7 @@ We will also install R and [RStudio](https://www.rstudio.com/) for the next clas
 
 Prof. Fan's notes from class: [genomic-data-visualization-Lesson_0.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_0.pdf)
 
+See former TA Kalen Clifton's notes on Github: [Git_Tutorial.md (click to download)]({{ site.baseurl }}/resources/notes/Git_Tutorial.md)
 
 ---
 

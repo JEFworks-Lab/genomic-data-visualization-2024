@@ -7,7 +7,7 @@ As the primary mode through which analysts and audience members alike consume da
 </p>"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
-baseurl: '/genomic-data-visualization-2023'
+baseurl: '/genomic-data-visualization-2024'
 google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
