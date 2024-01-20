@@ -4,9 +4,9 @@ title:  "Lesson 0: Welcome and Introductions"
 order: 0
 ---
 
-# Lecture 0
+# Lecture
 
-## 0.0 Lesson learning objectives
+## 0.0 Learning objectives
 
 By the end of this lesson, you should understand what to expect from the course and what is expected of you. 
 
@@ -143,17 +143,15 @@ Portions of the above text are comprised of language from [Jeff Leek's 2020 cour
 
 ---
 
-# Hands-on component 0
+# Hands-on Component
 
 Our in-class hands-on component will focus on setting all students up with Github and practice homework submission procedures. 
-
-[genomic-data-visualization-HW_0.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_0.pptx)
 
 We will also install R and [RStudio](https://www.rstudio.com/) for the next class.
 
 ---
 
-# Class Lesson Notes 0
+# Class Notes
 
 Prof. Fan's notes from class: [genomic-data-visualization-Lesson_0.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_0.pdf)
 
@@ -161,8 +159,10 @@ See former TA Kalen Clifton's notes on Github: [Git_Tutorial.md (click to downlo
 
 ---
 
-# Homework Assignment 0
+# Homework Assignment
 
-If you did not finish in class, your homework assignment will be to create a Github account and make pull request with your self introduction (due Thursday).
+`HW_0` [genomic-data-visualization-HW_0.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_0.pptx)
+
+If you did not finish in class, your homework assignment will be to create a Github account and make pull request with your self introduction (due Wednesday).
 
 To get a head start for next class, your additional homework assignment will be to install R and [RStudio](https://www.rstudio.com/) (due next class).

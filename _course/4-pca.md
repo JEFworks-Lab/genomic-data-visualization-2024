@@ -4,34 +4,29 @@ title:  "Lesson 4: Principal Components Analysis"
 order: 4
 ---
 
-# Lecture 4
+# Lecture 
 
-## 4.0 Lesson learning objectives
+## Learning objectives
 
 By the end of this lesson, we should understand what is principal components analysis and how to apply it to our spatial transcriptomic datasets.
 
 ---
 
-# Hands-on component 4
+# Hands-on Component 
 
 Our in-class hands-on component will involve analyzing our spatial transcriptomics dataset using principal components analysis to create a data visualization. 
 
 ---
 
-# Class Lesson Notes 4
+# Class Notes
 
-Prof. Fan’s whiteboard notes from class: (for some reason it didn't save; please refer to recording instead)
+Prof. Fan’s whiteboard notes from class: 
 
-Prof. Fan’s code from class: [code-02-01-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-01-2023.R)
+Prof. Fan’s code from class: [code-lesson-4.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-4.R)
 
 ---
 
-# Homework Assignment 4
+# Homework Assignment
 
-Learn from your classmates: You will be assigned to critique a data visualization made by a teammate. Please remember to be constructive in your critique. 
-
-[genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
-
-Make a pull request to submit your homework (due Friday Midnight).
-
+None. Complete `HW_2` if you have not done so yet.
 

@@ -4,7 +4,7 @@ title:  "Lesson 1: Data Visualization Theory"
 order: 1
 ---
 
-# Lecture 1
+# Lecture
 
 ## 1.0 Lesson learning objectives
 
@@ -60,23 +60,23 @@ Different data encodings for different data types offer differing levels of sali
 
 ---
 
-# Hands-on component 1
+# Hands-on Component
 
 Our in-class hands-on component will focus on introducing students to the R programming language, RStudio, and gaining experience with [ggplot2](https://ggplot2.tidyverse.org/).
 
 ---
 
-# Class Lesson Notes 1
+# Class Notes
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_1.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_1.pptx)
 
-Prof. Fan’s code from class: [code-01-25-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-01-25-2023.R)
+Prof. Fan’s code from class: [code-lesson-1.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-1.R)
 
 ---
 
-# Homework Assignment 1
+# Homework Assignment
 
-None. Complete Homework Assignment 0 if you have not done so yet. 
+None. Complete `HW_0` if you have not done so yet. 
 
 ---
 

@@ -4,7 +4,7 @@ title:  "Lesson 3: Review and Quiz"
 order: 3
 ---
 
-# Lecture 3
+# Lecture
 
 ## 3.0 Lesson learning objectives
 
@@ -14,18 +14,21 @@ The original content on summary statistics and QC will be delayed until next cla
 
 ---
 
-# Hands-on component 3
+# Hands-on Component
 
 None. Quiz. 
 
 ---
 
-# Class Lesson Notes 3
+# Class Notes
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_3.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_3.pptx)
 
 ---
 
-# Homework 3
+# Homework
 
-HW1 due today at Midnight.
+`HW_2` [genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
+
+Make another student's plot with your spatial transcriptomics data.
+

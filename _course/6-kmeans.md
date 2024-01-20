@@ -12,22 +12,25 @@ By the end of this lesson, we should understand what is kmeans clustering and ho
 
 ---
 
-# Hands-on component 6
+# Hands-on Component
 
 Our in-class hands-on component will analyze our spatial transcriptomics datasets to create a data visualization using kmeans clustering. 
 
 ---
 
-# Class Lesson Notes 6
+# Class Notes
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_6.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_6.pptx)
 
-Prof. Fan’s code from class: [code-02-06-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-06-2023.R)
+Prof. Fan’s code from class: [code-lesson-6.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-6.R)
 
 ---
 
-# Homework Assignment 6
+# Homework Assignment
 
-HW3 due today at Midnight.
+`HW_4` 
+
+Make another student's dimensionality reduction plot from `HW_3` with your spatial transcriptomics data.
+
 
 ---
