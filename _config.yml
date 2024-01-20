@@ -11,6 +11,7 @@ baseurl: '/genomic-data-visualization-2024'
 google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
+github: 'https://github.com/JEFworks-Lab/genomic-data-visualization-2024'
 
 # Plugins
 plugins:
