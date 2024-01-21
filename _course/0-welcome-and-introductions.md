@@ -153,7 +153,7 @@ We will also install R and [RStudio](https://www.rstudio.com/) for the next clas
 
 # Class Notes
 
-Prof. Fan's notes from class: [genomic-data-visualization-Lesson_0.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_0.pdf)
+Prof. Fan's notes from class: [genomic-data-visualization-Lesson_0.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_0.pptx)
 
 See former TA Kalen Clifton's notes on Github: [Git_Tutorial.md (click to download)]({{ site.baseurl }}/resources/notes/Git_Tutorial.md)
 
