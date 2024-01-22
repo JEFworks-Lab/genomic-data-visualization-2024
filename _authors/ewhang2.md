@@ -2,6 +2,5 @@
 layout: profile
 name: Esther
 jhed: ewhang2
-avatar: '/profiles/samplestudent.jpg'
-description: BME PhD Student interested in Computational Imaging.
----
+avatar: '/profiles/ewhang2.jpg'
+description: 1st year BME PhD Student
