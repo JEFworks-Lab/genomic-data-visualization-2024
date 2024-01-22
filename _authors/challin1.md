@@ -1,6 +1,6 @@
 ---
 layout: profile
-name: Caleb H
+name: Caleb Hallinan
 jhed: challin1
 avatar: '/profiles/challin1.jpg'
 email: challin1@jh.edu
