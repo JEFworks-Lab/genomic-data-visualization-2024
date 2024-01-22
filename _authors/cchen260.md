@@ -1,7 +1,7 @@
 ---
 layout: profile
-name: sample student
-jhed: jhed
-avatar: '/profiles/samplestudent.jpg'
-description: "Anything about you."
+name: Connie C
+jhed: cchen260
+avatar: '/profiles/cchen.jpg'
+description: "I am a Junior studying Biomedical Engineering. In my free time I like to read, play piano, and play badminton."
 ---
