@@ -1,8 +1,8 @@
 ---
 layout: profile
-name: sample student
-jhed: jhed
-avatar: '/profiles/samplestudent.jpg'
-description: "Anything about you."
+name: Wenyu Yang
+jhed: wyang51
+avatar: '/profiles/wyang51.jpg'
+description: "Hello! I am a senior studying BME and excited to learn more about genomic data visualization. I am very cool."
 ---
 
