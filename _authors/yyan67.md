@@ -1,7 +1,7 @@
 ---
 layout: profile
-name: sample student
-jhed: jhed
+name: April Yan
+jhed: yyan67
 avatar: '/profiles/samplestudent.jpg'
 description: "Anything about you."
 ---
