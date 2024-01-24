@@ -7,6 +7,6 @@ email: rpeixot1@jhu.edu
 github: https://github.com/rafaeldossantospeixoto
 linkedin: https://www.linkedin.com/in/rafaeldossantospeixoto/
 twitter: https://twitter.com/rdsantospeixoto
-description: "I am a first-year Biomedical Engineering Ph.D. student at Johns Hopkins University focused on developing software for the analysis of spatial omics data. In my free time, I enjoy traveling. My favorite soccer team (and the best team in the world) is Palmeiras!"
+description: "I am a second-year Biomedical Engineering Ph.D. student at Johns Hopkins University focused on developing software for the analysis of spatial omics data. In my free time, I enjoy traveling. My favorite soccer team (and the best team in the world) is Palmeiras!"
 ---
 
