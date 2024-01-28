@@ -28,7 +28,5 @@ Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_3.pptx (click
 
 # Homework
 
-`HW_2` [genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
-
-Make another student's plot with your spatial transcriptomics data.
+None. Complete `HW1` if you have not done so already. 
 
