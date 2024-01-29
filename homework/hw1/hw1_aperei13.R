@@ -1,30 +1,24 @@
 library(ggplot2)
 
-file <- '~/Documents/genomic-data-visualization-2024/data/pikachu.csv.gz'
+outpth <-'~/genomic-data-visualization-2024/homework/hw1/'
+
+file <- '~/genomic-data-visualization-2024/data/pikachu.csv.gz'
 data <- read.csv(file)
 
 head(data)
 
 
-ggplot(data)+
-  geom_point(aes(x=aligned_x, y=ERBB2, 
-                 size=aligned_y,
-                 col=cell_area)) + 
-  scale_colour_gradient(low = 'lightgrey',
-                        high='red') + 
-  theme_minimal() 
+# Get coordinates of max CCDC80 region
+max_region <- data[which.max(data$CCDC80), c("aligned_x", "aligned_y")]
+xmin <- max_region$aligned_x[1] - 20
+xmax <- max_region$aligned_x[1] + 20
+ymin <- max_region$aligned_y[1] - 20
+ymax <- max_region$aligned_y[1] + 20
 
-
-# spatial location of cells with respect to nucleus area and cell area
-ggplot(data)+
+im_xy_genes<- ggplot(data)+
   geom_point(aes(x=aligned_x,y=aligned_y,
-                 size= nucleus_area,
-                 col=cell_area)) #+
-# scale_colour_gradient(low = 'lightgrey',
-# high='red') 
+             col=CCDC80)) + 
+  geom_rect(aes(xmin = xmin, xmax = xmax, ymin = ymin, ymax = ymax), 
+            fill = "red", alpha = 0.01)
 
-ggplot(data)+
-  geom_bin2d(aes(x=aligned_x,y=aligned_y,
-                 size= nucleus_area,
-                 col=cell_area),
-             bin=100)
+ggsave(paste0(outpth, "hw1_aperei13.png"), plot = im_xy_genes)
