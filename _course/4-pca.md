@@ -20,7 +20,7 @@ Our in-class hands-on component will involve analyzing our spatial transcriptomi
 
 # Class Notes
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-Lesson_4.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_4.pptx)
 
 Prof. Fan’s code from class: [code-lesson-4.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-4.R)
 
@@ -28,5 +28,7 @@ Prof. Fan’s code from class: [code-lesson-4.R (click to download)]({{ site.bas
 
 # Homework Assignment
 
-None. Complete `HW_2` if you have not done so yet.
+`HW_2` [genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
+
+Make another student's data visualization using your spatial transcriptomics data.
 
