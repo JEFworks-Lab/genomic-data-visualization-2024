@@ -28,9 +28,5 @@ Prof. Fan’s code from class: [code-lesson-6.R (click to download)]({{ site.bas
 
 # Homework Assignment
 
-`HW_4` 
+None. Complete `HW3` if you have not done so already.
 
-Make another student's dimensionality reduction plot from `HW_3` with your spatial transcriptomics data.
-
-
----
