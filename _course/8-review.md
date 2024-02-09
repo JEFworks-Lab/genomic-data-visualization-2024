@@ -1,4 +1,4 @@
-˘---
+---
 layout: page
 title:  "Lesson 8: Review and quiz"
 order: 8
