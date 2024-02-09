@@ -1,4 +1,4 @@
----
+˘---
 layout: page
 title:  "Lesson 8: Review and quiz"
 order: 8
@@ -20,7 +20,7 @@ None. Quiz.
 
 # Class Notes
 
-TBD
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_8.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_8.pptx)
 
 ---
 
