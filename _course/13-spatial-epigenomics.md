@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lesson 12: Spatial Epigenomics"
-order: 12
+title:  "Lesson 13: Spatial Epigenomics"
+order: 13
 ---
 
 # Lecture
@@ -20,12 +20,12 @@ None.
 
 # Class Notes
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_12.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_12.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_13.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_13.pptx)
 
 ---
 
 # Homework Assignment
 
-None. Complete `HW_7` if you have not already done so. 
+None. Complete `HW_6` if you have not already done so. 
 
 
