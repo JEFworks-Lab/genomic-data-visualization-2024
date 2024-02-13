@@ -30,6 +30,7 @@ Prof. Fan’s code from class: [code-lesson-7.R (click to download)]({{ site.bas
 
 Put everything you’ve learned together: perform clustering analysis, differential expression, visualize results in reduced dimensional space and physical space, interpret your cluster identified.
 
-See slides for more details on what is expected: genomic-data-visualization-HW_4.pptx (click to download)
+Additional details: [genomic-data-visualization-HW_4.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_4.pptx)
+
 
 
