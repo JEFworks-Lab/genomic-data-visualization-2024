@@ -28,9 +28,9 @@ Prof. Fan’s code from class: [code-lesson-10.R (click to download)]({{ site.ba
 
 # Homework Assignment
 
-`HW_5` apply same approach for analyzing your original spatial transcriptomics dataset to the other team's dataset. Your goal is to identify same cell-type (due Friday evening). See slides for more details on what is expected: [genomic-data-visualization-HW_5.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_5.pptx)
+`HW_5` apply same approach for analyzing your original spatial transcriptomics dataset to the other team's dataset. Your goal is to identify same cell-type (due Saturday evening). See slides for more details on what is expected: [genomic-data-visualization-HW_5.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_5.pptx)
 
-`HW_EC1` Make a plot using `gganimate` for extra credit
+`HW_EC1` Make a plot using `gganimate` for extra credit. See slides for more details on what is expected: [genomic-data-visualization-HW_EC1.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_EC1.pptx)
 
 ---
 
