@@ -14,16 +14,17 @@ By the end of this lesson, we will have reviewed all concepts learned up until n
 
 # Hands-on Component
 
-TDB
+None. Quiz.
 
 ---
 
 # Class Notes
 
-TBD
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_8.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_8.pptx)
 
 ---
 
 # Homework Assignment
 
-`HW_5` Put everything you've learned together: perform clustering analysis, differential expression, visualize results in reduced dimensional space and physical space, interpret your cluster identified
+None. Complete `HW4` if you have not done so already.
+

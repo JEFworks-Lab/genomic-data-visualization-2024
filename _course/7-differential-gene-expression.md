@@ -28,4 +28,9 @@ Prof. Fan’s code from class: [code-lesson-7.R (click to download)]({{ site.bas
 
 # Homework Assignment
 
-None. Complete `HW_4` if you have not done so already.
+Put everything you’ve learned together: perform clustering analysis, differential expression, visualize results in reduced dimensional space and physical space, interpret your cluster identified.
+
+Additional details: [genomic-data-visualization-HW_4.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_4.pptx)
+
+
+
