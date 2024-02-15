@@ -14,7 +14,7 @@ By the end of this lesson, we should better understand how multi-cellular pixel-
 
 # Hands-on component
 
-None.
+Download the results deconvolution and visualize the results. 
 
 ---
 
@@ -22,11 +22,11 @@ None.
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_11.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_11.pptx)
 
+Prof. Fan’s code from class: [code-lesson-11.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-11.R)
+
 ---
 
 # Homework Assignment
 
-`HW_7` Find the same cell-type in both datasets.
-
-
+None. Complete `HW5` if you have not done so already. 
 
