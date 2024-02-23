@@ -14,13 +14,15 @@ By the end of this lesson, we should understand what is epigenetics and what are
 
 # Hands-on component
 
-None. 
+Our in-class hands-on component will involve analyzing a mystery spatial omics dataset.
 
 ---
 
 # Class Notes
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_13.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_13.pptx)
+
+Prof. Fan’s code from class: [code-lesson-13.R (click to download)]({{ site.baseurl }}/resources/code/code-lesson-13.R) 
 
 ---
 
