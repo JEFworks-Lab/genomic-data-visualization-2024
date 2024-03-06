@@ -20,7 +20,7 @@ TDB
 
 # Class Notes
 
-TBD
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_14.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_14.pptx)
 
 ---
 
